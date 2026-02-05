@@ -2,3 +2,11 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
+        int valor = 150;
+        for (int i = 150 ; i < 300; i++) {
+                    valor += 1;
+            System.out.println(valor + ";");
+
+        }
+    }
+}
