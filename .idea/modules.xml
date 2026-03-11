@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/atividade3/atividade3.iml" filepath="$PROJECT_DIR$/atividade3/atividade3.iml" />
       <module fileurl="file://$PROJECT_DIR$/atividadeSala/atividadeSala.iml" filepath="$PROJECT_DIR$/atividadeSala/atividadeSala.iml" />
       <module fileurl="file://$PROJECT_DIR$/atividadeSala/atividadeSala2/atividadeSala2.iml" filepath="$PROJECT_DIR$/atividadeSala/atividadeSala2/atividadeSala2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fibonnacci_questao/fibonnacci_questao.iml" filepath="$PROJECT_DIR$/fibonnacci_questao/fibonnacci_questao.iml" />
     </modules>
   </component>
 </project>
